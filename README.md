@@ -8,6 +8,7 @@ A la demande d'Emmaus Connect :
 
 ## ⭐ Place : 1ères parmi 16 groupes et 4 groupes finalistes 💪
 
+## ⌛ Délai : 2 jours
 
 ## ⚙️ Outils principaux : 
 Python avec Deepnote & PowerBI 
