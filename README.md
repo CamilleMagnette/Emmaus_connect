@@ -1,15 +1,16 @@
-# 🙏 Emmaus_Connect_Analysis_hackathon_using_Python_and_PowerBI:
+# 🙏 Hackathon_Emmaus_Connect_Analysis_with_PowerBI:
 
 ## 🎯 Objectif du HACKATHON :
 
-Un cabinet de recrutement américain cherche où installer ses nouveaux bureaux dans le Monde afin de capter les profils techs les plus interessants. 
-Identifier les tendances actuelles et aider le cabinet à identifier les profils, contrats et localités sur lesquels se concentrer. 
+A la demande d'Emmaus Connect : 
+- Réaliser une analyse des usages les moins effectués par certaines catégories de population.
+- Orienter sur les besoins de ces catégories afin de les aider et les former. 
 
-## 🎯 Place : 1ères 💪
+## ⭐ Place : 1ères parmi 16 groupes et 4 groupes finalistes 💪
 
 
 ## ⚙️ Outils principaux : 
-Python avec Deepnote, PowerBI 
+Python avec Deepnote & PowerBI 
 
 ## 🔍 Source des données :  
 [dataset](https://www.data.gouv.fr/fr/datasets/barometre-du-numerique/)
