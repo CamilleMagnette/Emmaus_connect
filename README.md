@@ -1,4 +1,4 @@
-# 🙏 Hackathon_Emmaus_Connect_Analysis_with_PowerBI:
+# 🙏 Hackathon_Emmaus_Connect_Analysis_with_PowerBI
 
 ## 🎯 Objectif du HACKATHON :
 
